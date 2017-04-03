@@ -38,7 +38,7 @@ Or
 
 If you config your PATH.
 
-With the json-request.json file.
+A sample json-request.json file is.
 
      {
           username: "joe"
