@@ -38,7 +38,11 @@ Or
 
 If you config your PATH.
 
-A sample json-request.json file is.
+Example:
+
+     $ restclient http://fakeserver.com/register application/json json-request.json
+
+With json-request.json file is.
 
      {
           username: "joe"
