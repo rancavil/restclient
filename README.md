@@ -2,6 +2,8 @@
 
 This is a simple RestClient built in Go.
 
+Note: For now this is a POST HTTP Client.
+
 # How install
 
      $ git clone https://github.com/rancavil/restclient.git
